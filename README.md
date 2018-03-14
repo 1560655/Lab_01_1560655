@@ -1,8 +1,8 @@
 ## MSSV: 1560655
-## Họ tên: Lê Thanh Tú
+# Họ tên: Lê Thanh Tú
 ## Mail: lethanhtu130897@gmail.com
 ## SDT: 01662404446
-## Giới thiệu:  [Ghé thăm trang cá nhâ của tôi.](https://www.facebook.com/csi.inter)
+## Giới thiệu:  [Ghé thăm trang cá nhân của tôi.](https://www.facebook.com/csi.inter)
 ## Thời khóa biểu:
 
 | Tiết |     Thứ 3     |     Thứ 4      | Thứ 5 	|Thứ 6 	| Thứ 7 	|
